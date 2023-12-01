@@ -1,0 +1,33 @@
+{
+  "name": "upworkit",
+  "version": "1.0.0",
+  "description": "```sh\r git clone https://github.com/enthusiastica/generator.git\r pip install -r requirements.txt\r npm i\r ```",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "@cemalgnlts/mailjs": "^3.0.0",
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.3.1",
+    "firebase-admin": "^11.11.0",
+    "fs": "^0.0.1-security",
+    "google-auth-library": "^9.2.0",
+    "googleapis": "^126.0.1",
+    "node-fetch": "^3.3.2",
+    "nodemailer": "^6.9.6",
+    "path": "^0.12.7",
+    "puppeteer": "^20.7.3",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "puppeteer-utilz": "^4.0.8",
+    "randomstring": "^1.3.0",
+    "readline": "^1.3.0",
+    "regenerator-runtime": "^0.13.11"
+  },
+  "devDependencies": {
+    "javascript-obfuscator": "^4.1.0"
+  }
+}

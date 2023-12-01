@@ -1,0 +1,73 @@
+{
+	"first_name": "Sergio",
+	"last_name": "Li",
+	"birthday": "1994-06-21",
+	"professional": "AI | Web Scraping",
+	"overview": "Expert in AI and Web Scraping. Especially such as Chat Bot Development, Generative AI, Deep Learning and NLP.",
+	"country": "Hong Kong",
+	"hourRate": 40,
+	"workXP": [
+		{
+			"company": "Meru Technologie",
+			"role": "Deep Learning Engineer",
+			"description": [],
+			"start": "2022-11-11",
+			"end": "2023-10-09"
+		},
+		{
+			"company": "zeteoh",
+			"role": "Data Engineer",
+			"description": [],
+			"start": "2019-9-05",
+			"end": "2022-10-18"
+		},
+		{
+			"company": "Maui Finance",
+			"role": "Full Stack Engineer",
+			"description": [],
+			"start": "2016-07-14",
+			"end": "2019-08-19"
+		}
+	],
+	"education": [
+		{
+			"university": "University of Barcelona",
+			"country": "Spain",
+			"degree": "Bachelor of Computer Science (BCompSc)",
+			"field": "Computer Science",
+			"start": "2011-09-01",
+			"end": "2016-05-18"
+		}
+	],
+	"languages": [],
+	"skills": [
+		"Python",
+		"R",
+		"MERN Stack",
+		"ChatGPT",
+		"Web Scraping",
+		"Data Scraping",
+		"Deep Learning",
+		"Computer Vision",
+		"Machine Learning",
+		"Large Language Model",
+		"Natural Language Processing",
+		"Prompt Engineering",
+		"Chatbot Development"
+	],
+	"services": [
+		"AI & Machine Learning",
+		"Data Analysis & Testing",
+		"Data Extraction/ETL",
+		"Data Mining & Management",
+		"Data Design & Visualization",
+		"Web Development",
+		"DevOps & Solution Architecture"
+	],
+	"street": "Luohu district",
+	"zipcode": "Wkh U302",
+	"city": "Kowloon",
+	"countryCode": "HK",
+	"phone": "32804172",
+	"avatar": "Sergio.png"
+}

@@ -1,0 +1,38 @@
+{
+    "professional": "NLP | Computer Vision | ChatGPT | Audio Processing",
+    "overview": "Creative AI Engineer leveraging an 8 year track record in the design, development, testing, and deployment of applications. Skilled in crafting codes and algorithms, coupled with proficiency in constructing complex neural networks using various programming languages. Demonstrates a deep understanding of NLP, Computer Vision, and Generative AI. Uniquely gifted in Audio Processing and Text-to-Speech (TTS) technologies.",
+    "country": "Canada",
+    "hourRate": "40",
+    "languages": [],
+    "skills": [
+      "Python",
+      "Web Scraping",
+      "Natural Language Processing",
+      "Computer Vision",
+      "ChatGPT",
+      "Chatbot Development",
+      "Deep Learning",
+      "Django",
+      "SQL",
+      "Machine Learning",
+      "Chatbot Integration",
+      "Numpy",
+      "Artificial Intelligence",
+      "Data Science",
+      "Generative AI"
+    ],
+    "services": [
+      "AI & Machine Learning",
+      "Data Design & Visualization",
+      "Data Analysis & Testing",
+      "Audio & Music Production",
+      "Scripts & Utilities",
+      "Web Development"
+    ],
+    "street": "153 Cumberland",
+    "zipcode": "M5S 1N5",
+    "city": "Mississauga",
+    "location": "Canada",
+    "phone": "4169665836",
+    "birth": "1994-06-21"
+  }
