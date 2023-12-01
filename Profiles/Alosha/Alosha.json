@@ -1,0 +1,76 @@
+{
+	"first_name": "alex",
+	"last_name": "li",
+	"birthday": "1994-06-21",
+	"professional": "Machine Learning Engineer | AI Software Developer | Web Developer",
+	"overview": "As an AI Developer, I feel like a mad scientist in the lab, mixing curiosity with algorithms to create sophisticated artificial intelligence. Sometimes, it feels like I'm training a robot puppy: 'No, AI unit, we don't chase our own data tail.' 🤖🐶 \n\nThe thrill of watching machine learning models evolve feels like cheering on my favorite team in the coding Olympics. Go, neural networks, go! 💻🏅\n\nAnd when the code works and the AI behaves as if it is almost... dare I say, human, it feels like winning the Super Bowl of computer science! That's the life of an AI Developer, chaos, creativity, and certainly a ton of coffee. All in all, it's never binary in the world of AI-wise; every day is filled with 1's, 0's and infinite possibilities! ☕🌌💡",
+	"country": "Hong Kong",
+	"hourRate": 30,
+	"workXP": [
+		{
+			"company": "ThoughtWorks",
+			"role": "AI Lead Engineer",
+			"description": [],
+			"start": "2021-09-01",
+			"end": "2023-09-01"
+		},
+		{
+			"company": "SpeakSynk",
+			"role": "Deep Learning | NLP Engineer",
+			"description": [],
+			"start": "2019-11-01",
+			"end": "2021-10-01"
+		},
+		{
+			"company": "Lucines",
+			"role": "Junior ML developer",
+			"description": [],
+			"start": "2016-04-01",
+			"end": "2019-10-01"
+		}
+	],
+	"education": [
+		{
+			"university": "University of Hong Kong",
+			"country": "Hong Kong",
+			"degree": "Bachelor of Computer Science (BCompSc)",
+			"field": "Computer Science",
+			"start": "2012-09-01",
+			"end": "2016-03-30"
+		}
+	],
+	"languages": [],
+	"skills": [
+		"Python",
+		"Deep Learning",
+		"Machine Learning",
+		"Natural Language Processing",
+		"Computer Vision",
+		"Large Language Model",
+		"Prompt Engineering",
+		"Web Scraping",
+		"Full-Stack Development",
+		"MERN Stack",
+		"Bot Development",
+		"ChatGPT",
+		"API Integration"
+	],
+	"services": [
+		"Data Analysis & Testing",
+		"Data Extraction/ETL",
+		"Data Mining & Management",
+		"Data Design & Visualization",
+		"AI & Machine Learning",
+		"NFT, AR/VR & Game Art",
+		"Database Management & Administration",
+		"Desktop Application Development",
+		"Game Design & Development",
+		"Web Development"
+	],
+	"street": "Fullagar Ind Bldg",
+	"zipcode": "777777",
+	"city": "Aberdeen",
+	"countryCode": "HK",
+	"phone": "24159015",
+	"avatar": "Alosha.jpg"
+}
