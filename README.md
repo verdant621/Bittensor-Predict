@@ -54,6 +54,12 @@ michaelwestbrooksii@gmail.com
 
 R!"GM~G8S7V#'&h
 
+`AWS User`
+
+redrooster
+
+MMYaQh,Q=4B){mp
+
 `GPT-Key`
 
 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
