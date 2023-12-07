@@ -47,3 +47,14 @@ Name : Michael Westbrooks
 michaelwestbrooksii@gmail.com
 
 michael.westbrooks@redroostertech.com
+
+`AWS account`
+
+michaelwestbrooksii@gmail.com
+
+R!"GM~G8S7V#'&h
+
+`GPT-Key`
+
+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
+
