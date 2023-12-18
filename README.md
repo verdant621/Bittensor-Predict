@@ -40,6 +40,10 @@ https://github.com/universeguy
 
 https://github.com/vision-queen
 
+`Wallet Information`
+
+balance raw amateur come attack idle shadow increase appear sand predict february
+
 `Client Contact Information`
 
 Name : Michael Westbrooks
