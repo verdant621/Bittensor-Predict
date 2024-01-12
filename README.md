@@ -26,8 +26,6 @@ alosha0suzuki@gmail.com
 
 elan312matter@gmail.com
 
-daniel0nakamura@gmail.com
-
 tomas42ryan@gmail.com
 
 `GitHub`
@@ -38,7 +36,6 @@ https://github.com/tangledpuzzle
 
 https://github.com/universeguy
 
-https://github.com/vision-queen
 
 `AWS account`
 
