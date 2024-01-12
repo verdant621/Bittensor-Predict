@@ -40,14 +40,6 @@ https://github.com/universeguy
 
 https://github.com/vision-queen
 
-`Client Contact Information`
-
-Name : Michael Westbrooks
-
-michaelwestbrooksii@gmail.com
-
-michael.westbrooks@redroostertech.com
-
 `AWS account`
 
 michaelwestbrooksii@gmail.com
@@ -61,4 +53,7 @@ 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
 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
 
 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
+
+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
+
 
