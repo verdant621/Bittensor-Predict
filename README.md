@@ -12,6 +12,8 @@ Linked In : https://www.linkedin.com/in/alex-lin-32987b295/
 
 Password : M@ster2003621
 
+Password : jack?EGG8QUEENSKYPE
+
 `Gmail Address`
 
 tangledpuzzle94621@gmail.com
