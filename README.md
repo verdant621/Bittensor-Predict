@@ -30,6 +30,8 @@ elan312matter@gmail.com
 
 tomas42ryan@gmail.com
 
+bluxking06@gmail.com (P@ssw0rd123P@ssw0rd123)
+
 `GitHub`
 
 https://github.com/Alex621Lin
