@@ -120,9 +120,9 @@ bluxking06+yp7fbut5by@gmail.com
 
 `GitHub`
 
-https://github.com/Alex621Lin
+https://github.com/verdant621
 
-https://github.com/tangledpuzzle
+https://github.com/tangle621
 
 https://github.com/universeguy
 
