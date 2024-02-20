@@ -8,7 +8,7 @@ MAP : 56 (B2)
 
 Zip code : L4T 6J2
 
-Linked In : https://www.linkedin.com/in/alex-lin-32987b295/
+Website : (https://alex-website.pages.dev/)
 
 Password : M@ster2003621
 
