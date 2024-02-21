@@ -2,7 +2,11 @@
 
 `Address Information`
 
-Street : Alderwood Trail         MAP : 56 (B2)          Zip code : L4T 6J2
+Street : Alderwood Trail
+
+MAP : 56 (B2)
+
+Zip code : L4T 6J2
 
 Website : (https://alex-website.pages.dev/)
 
