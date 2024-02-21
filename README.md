@@ -106,14 +106,6 @@ bluxking06+kh9ku2napp@gmail.com
 
 bluxking06+m4gev3kv88@gmail.com
 
-bluxking06+o9h50luaof@gmail.com
-
-bluxking06+uiqwa117j7@gmail.com
-
-bluxking06+ued6amesvx@gmail.com
-
-bluxking06+yp7fbut5by@gmail.com
-
 `GitHub`
 
 https://github.com/verdant621
