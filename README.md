@@ -125,9 +125,6 @@ danwu82373010796198530000@xp88.io
 
 danwu95722498272632370000@couxpn.com
 
-pw7hwuhtq8fzwdanx8utmnhov@digitalmaju.me
-
-z2mssjvcpnbpkppdanojvwuxm@truesoldiershop.com
 
 `GitHub`
 
